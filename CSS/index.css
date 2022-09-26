@@ -115,18 +115,26 @@ body {
 
 /*Para el cuerpo de la página*/
 .main{
-    padding-top: 20%;
+    padding-top: 10%;
 }
 
 .main .container .text p{
     font-size: 25px;
 }
 
+#video{
+    padding-left: 20rem;
+}
+
+iframe{
+    padding-top: 1em;
+}
+
 /*para el pie de página*/
 .footer{
     background-color: #722f37;
     text-align: center;
-    margin-top: 12.9rem;
+    margin-top: 2.5rem;
     color: white;
     height: 100px;
 }
